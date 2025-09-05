@@ -1,1 +1,2 @@
 couse name : DEVOPS
+learned about-how to create new repository and create a new file and edit commit changes
